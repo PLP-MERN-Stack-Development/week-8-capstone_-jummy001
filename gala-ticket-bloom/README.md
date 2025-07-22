@@ -37,3 +37,5 @@ npm run dev
 Author
 Ajibola Jumoke Woye
 Capstone project for PLP MERN Stack Development
+vercel url:https://vercel.com/ajibola-jumoke-hamdalats-projects/gala-ticket-bloom
+
