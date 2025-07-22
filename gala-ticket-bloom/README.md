@@ -38,4 +38,5 @@ Author
 Ajibola Jumoke Woye
 Capstone project for PLP MERN Stack Development
 vercel url:https://vercel.com/ajibola-jumoke-hamdalats-projects/gala-ticket-bloom
+demo video:https://drive.google.com/file/d/1aGVkU8znCQb8q5yg6CU4Fxhr2iUqcioa/view?usp=sharing
 
